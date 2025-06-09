@@ -152,10 +152,11 @@ nav ul li a{
         align-items: center;
         justify-content: flex-end;
         gap: 1rem;
+        
     }
 
     .login-btn{
-        background: transparent;
+        background:transparent;
         border: 1px solid white;
         color: white;
     }
